@@ -143,6 +143,3 @@ Open two terminal windows.
 
 3. Run `yarn publish` - differently from npm, yarn will ask for a new version and tag it. Remember to push your git state to remote after.
 
-## License
-
-MIT © [nmpribeiro](https://github.com/nmpribeiro)
