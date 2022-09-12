@@ -1,6 +1,5 @@
 # UNDP Radar Library
 
-Code base seated on repo  [UNDP Radar](https://github.com/SDG-AI-Lab/Digital_Technologies_Radar_Lib).
 
 > Made with create-react-library
 
