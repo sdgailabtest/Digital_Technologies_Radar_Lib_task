@@ -1,7 +1,5 @@
 # UNDP Radar Library
 
-Code base seated on repo  [UNDP Radar](https://github.com/SDG-AI-Lab/Digital_Technologies_Radar_Lib).
-
 > Made with create-react-library
 
 [![NPM](https://img.shields.io/npm/v/@undp_sdg_ai_lab/undp-radar.svg)](https://www.npmjs.com/package/@undp_sdg_ai_lab/undp-radar) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
